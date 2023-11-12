@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/667042855214121000/1173375505643356191/DALLE_2023-11-12_19.25.15_-_finish_3.png?ex=6563ba18&is=65514518&hm=a240c1394772da38e4dc0e9d45519bfbba23e1f03e3a0f9e4a211bdef36b9dba&" alt="Badger's Hub Logo" width="200">
+  <img src="https://cdn.discordapp.com/attachments/667042855214121000/1173375505643356191/DALLE_2023-11-12_19.25.15_-_finish_3.png?ex=6563ba18&is=65514518&hm=a240c1394772da38e4dc0e9d45519bfbba23e1f03e3a0f9e4a211bdef36b9dba&" alt="Blaster's Hub Logo" width="200">
 </p>
 
-# Badger's Hub
+# Blaster's Hub
 
-Welcome to Badger's Hub, where we're passionate about enhancing the gaming experience. We create custom, advanced scripts for a wide range of games and provide top-notch customer support.
+Welcome to Blaster's Hub, where we're passionate about enhancing the gaming experience. We create custom, advanced scripts for a wide range of games and provide top-notch customer support.
 
 ## About Us
 
-At Badger's Hub, we're on a mission to revolutionize the world of scripts and add-ons. We recognized a gap in the market for high-quality scripts with comprehensive documentation and top-notch customer support. Our approach is simple: we create scripts that are not only unique but also superior to anything you've seen before.
+At Blaster's Hub, we're on a mission to revolutionize the world of scripts and add-ons. We recognized a gap in the market for high-quality scripts with comprehensive documentation and top-notch customer support. Our approach is simple: we create scripts that are not only unique but also superior to anything you've seen before.
 
 ## Our Commitment
 
@@ -22,7 +22,7 @@ We're not just script creators; we're your partners in success. Our commitment t
 
 ## Explore Our World
 
-- [Tebex Shop](https://badgershub.tebex.io/): Visit our Tebex store to explore our latest scripts and add-ons.
+- [Tebex Shop](https://Blastershub.tebex.io/): Visit our Tebex store to explore our latest scripts and add-ons.
 - [Discord Community](https://discord.gg/your-discord-link): Join our Discord community to interact with us and fellow script enthusiasts.
 - [YouTube Channel (coming soon)](https://www.youtube.com/c/your-channel): Subscribe to our YouTube channel for tutorials, demos, and updates.
 - [Documentation](https://your-documentation-link): Visit our documentation page for detailed information about our scripts and add-ons.
