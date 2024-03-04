@@ -23,7 +23,7 @@ We're not just script creators; we're your partners in success. Our commitment t
 ## Explore Our World
 
 - [Tebex Shop](https://Blastershub.tebex.io/): Visit our Tebex store to explore our latest scripts and add-ons.
-- [Discord Community](https://discord.gg/your-discord-link): Join our Discord community to interact with us and fellow script enthusiasts.
+- [Discord Community](https://discord.gg/b67TEPrMq9): Join our Discord community to interact with us and fellow script enthusiasts.
 - [YouTube Channel (coming soon)](https://www.youtube.com/c/your-channel): Subscribe to our YouTube channel for tutorials, demos, and updates.
 - [Documentation](https://your-documentation-link): Visit our documentation page for detailed information about our scripts and add-ons.
 - [Website (coming soon)](https://your-website-link): Stay tuned for our website launch, where you'll find even more resources and information.
