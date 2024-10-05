@@ -22,8 +22,8 @@ We're not just script creators; we're your partners in success. Our commitment t
 
 - [Tebex Shop](https://blaster2hub.tebex.io/): Visit our Tebex store to explore our latest scripts and add-ons.
 - [Discord Community](https://discord.gg/b67TEPrMq9): Join our Discord community to interact with us and fellow script enthusiasts.
-- [YouTube Channel (coming soon)](https://www.youtube.com/@Blaster2Hub): Subscribe to our YouTube channel for tutorials, demos, and updates.
-- [Documentation](https://your-documentation-link): Visit our documentation page for detailed information about our scripts and add-ons.
+- [YouTube Channel](https://www.youtube.com/@Blaster2Hub): Subscribe to our YouTube channel for tutorials, demos, and updates.
+- [Documentation (coming soon)](https://your-documentation-link): Visit our documentation page for detailed information about our scripts and add-ons.
 - [Website (coming soon)](https://your-website-link): Stay tuned for our website launch, where you'll find even more resources and information.
 - [Cfx Forum](https://forum.cfx.re/u/blaster_hub/summary): The place where we post the scripts.
 
